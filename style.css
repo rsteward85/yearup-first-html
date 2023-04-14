@@ -1,4 +1,10 @@
-h1{text-shadow: #FC0 1px 0 10px;position: relative;}
-p{text-shadow: #FC0 1px 0 10px;}
-.fishbowl{width: 500px;
-          height: 400;}
+h1 {
+  text-shadow: #fc0 1px 0 10px;
+  position: relative;
+  text-align: center;
+}
+body {
+  background-image: url(https://tampabayedc.com/wp-content/uploads/2015/03/City-of-Tampa.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
